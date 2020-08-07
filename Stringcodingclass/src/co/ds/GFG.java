@@ -3,7 +3,7 @@ package co.ds;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class GFG {
+public class StringCompare{
 	static void sort(String[] strArr, String str) {
 		Comparator<String> myComp = new Comparator<String>(){
 			@Override
